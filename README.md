@@ -1,6 +1,7 @@
-#Lista de PodCasts
+# Lista de PodCasts
 
-Esta é uma lista dos PodCasts que acompanho e recomendo.
+Esta é uma lista dos PodCasts que acompanho e recomendo.<br/>
+Sinta-se livre para sugerir algum outro
 
 <hr>
 
